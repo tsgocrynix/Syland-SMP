@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Sky_ndCity.aternos.me",
+    "ip": "Sky_landCity.aternos.me",
     "port": 24052,
     "version": "1.20.1",
     "try-creative": false
